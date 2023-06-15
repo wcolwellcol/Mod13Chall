@@ -22,7 +22,8 @@ I do not recommend installing these packages. Rather, I would recommend a local 
 
 ---
 ### Usage
-The goal of this project is to create a deep learning model (neural network) to predict whether startups will be successful given certain metrics. I created three different models (nn, nn_A1, nn_A2) which utilize varying numbers of nodes and layers in an attempt to improve accuracy and loss. Unfortunately, I was not too successful at optimizing.
+The goal of this project is to create a deep learning model (neural network) to predict whether startups will be successful given certain metrics. I created three different models (nn, nn_A1, nn_A2) which utilize varying numbers of nodes and layers in an attempt to improve accuracy and loss. The weights of these models are all stored in [resources](https://github.com/wcolwellcol/Mod13Chall/tree/main/Resources) as three separate h5 files aptly named AlphabetSoup, AlphabetSoupA1, and AlphabetSoup2.
+ Unfortunately, I was not too successful at optimizing.
 
 Code can be found in the following notebook [GC_venture_funding_with_deep_learning.ipynb](https://github.com/wcolwellcol/Mod13Chall/blob/main/GC_venture_funding_with_deep_learning.ipynb).
 
